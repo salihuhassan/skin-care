@@ -1,0 +1,263 @@
+header{
+    border: 0px;
+    width: auto;
+    height: 30px;
+    background-color: rgba(0, 128, 107, 0.685);
+    text-align: center;
+}
+.yellow-star{
+    color: yellow;
+}
+a{
+    color: aliceblue;
+    margin-left: 20px;
+}
+#gay{
+    background-color: black;
+    height: 250px;
+    padding: 30px;
+    text-align: justify;
+}
+p{
+text-transform:capitalize;
+}
+#bas{
+    width: 600px;
+    height: 255px;
+    float: right;
+}
+h1{
+    text-align: center;
+
+}
+#box{
+  margin-left: 70px;
+  color: beige;
+}
+button{
+    width: 100px;
+    border-radius: 10px;
+    background-color: aqua;
+    padding: 10px;
+}
+#est{
+width: 88%;
+height: 55%;
+background-color: white;
+padding-left: 60px;
+
+
+
+}
+.os{
+    width: 390px;
+    height: 0 auto;
+}
+.o{
+    
+    height: 460px;
+    width: 394px;
+    
+}
+.das{
+    border: 0;
+    width: 250px;
+    height: auto;
+    display: inline-block;
+    margin-left: 10px;
+    text-align: center;
+}
+.das img{
+    width: 100%;
+}
+
+#xas{
+    width: auto;
+    height: auto;
+    text-align: center;
+    padding: 40px;
+    
+
+}
+#was{
+    width: 520px;
+    height: 320px;
+    float: left;
+}
+
+#test{
+    text-align: justify;
+    width: 80%;
+    margin: 20px auto;
+}
+#gres{
+    text-align: justify;
+    width: 47%;
+    margin-left:30px;
+    display: inline-block;
+}
+
+h2{
+    text-align: center;
+    color: beige;
+    
+}
+.vaz{
+    color: black;
+    text-transform: uppercase;
+  
+}
+h3{
+    text-align: center;
+}
+
+#has{
+width: auto;
+height: 300px;
+background-color: rgba(0, 128, 111, 0.753);
+padding: 40px;
+}
+#fas{
+    width: 200px;
+    height: 106px;
+}
+.bestseller{
+    display:flex;
+    justify-content: center;
+}
+.jas{
+    border: 5px;
+    width: 200px;
+    height: auto;
+    background-color:white;
+    text-align: center;  
+    margin: 10px;  
+}
+
+
+#fat{
+    border: 1px;
+    width: 200px;
+    height: auto;
+  
+}
+#fa{
+    width: 200px;
+    height: auto;
+}
+
+#fad{
+    width: 200px;
+    height: auto;
+}
+#ha{
+    border: 1px;
+    width: auto;
+    height: 300px;
+    background-color: bisque; 
+    padding: 20px;
+}
+#cas{
+    width: 580px;
+    height: 320px;
+    float: left;
+    
+}
+#kas{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    float: left;
+
+}
+#kast{
+    width: 150px;
+    height: 100%;
+    background-color: rgba(245, 245, 220, 0.24);
+    padding-left: 20px;
+}
+#kast p{
+    text-align: justify;
+}
+#kav{
+    width: 400px;
+    height: auto;
+    padding: 20px;
+}
+.ka{
+    border: 1px;
+    width: 500px;
+    height: 250px;
+    border-left : solid rgb(0, 128, 90);
+    border-top: solid rgb(0, 119, 128);
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-right: none;
+    border-bottom: none;
+    background-color:white;
+    margin-left: 50px;
+    display: inline-block;
+    padding: 30px;
+}
+#los{
+    width: auto;
+    height: auto;
+    background-color:palegoldenrod;
+    
+}
+#ban{
+    border: 2px;
+    width: auto;
+    height: auto;
+    border: double;
+    border-color: aqua;
+    display: flex;
+}
+#po{
+    width: auto;
+    height: 200px;
+    text-align: center;
+    background-color: rgba(0, 128, 128, 0.692);
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+#pos{
+    width: 400px;
+    height: 180px;
+    text-align: justify;
+   
+    
+    
+}
+
+input{
+    background-color:rgba(0, 128, 0, 0.178) ;
+    border-color: white;
+    height: 36px;
+    width: 190px;
+
+}
+
+#side_text{
+    text-align: justify;
+    width:44%;
+    margin: 0 20px;
+    padding-left: 40px;
+    float: left;
+}
+#cast{
+    background-color: white;
+   width: auto;
+   height: auto; 
+}
+#cas{
+    width: 40%;
+    position: absolute;
+    right: 100px;
+    bottom: 1px;
+    top: 1780px;
+}
+#bax{
+    padding: 20px;
+}
